@@ -19,7 +19,7 @@ export default class ItemHome extends Component {
               bulk of the card's content.
             </p>
           </div>
-          <div className="card-footer">
+          <div className="card-footer text-center">
             <a href="#" className="btn btn-primary">
               Find Out More!
             </a>
